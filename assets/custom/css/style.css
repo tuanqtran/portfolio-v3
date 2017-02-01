@@ -606,7 +606,8 @@ section {
     height: 100%; }
 
 #about-hero-image::before {
-  background: url("../images/backgrounds/06.jpg") no-repeat center center;
+  /*background: url("../images/backgrounds/06.jpg") no-repeat center center;*/
+  background: url("../images/rs-images/intro-bg.jpg") no-repeat center center;
   background-size: cover; }
 #about-hero-image .layer {
   background-color: rgba(255, 255, 255, 0.2); }
